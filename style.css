@@ -27,3 +27,26 @@ img{
 #img-caption{
   margin: 20px 0 10px 0;
 }
+ul{
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto 50px auto;
+    line-height: 1.5;
+}
+li{
+    margin: 15px 0;
+    font-size: 20px;
+}
+#blockquote{
+    text-align: left;
+    font-style: italic;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    line-height: 1.5;
+}
+#author{
+    text-align: left;
+    font-style: italic;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
